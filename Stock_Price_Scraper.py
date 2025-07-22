@@ -11,7 +11,7 @@ stock_symbols = ["AAPL", "TSLA", "MSFT"]
 interval_minutes = 1
 
 # ✅ ==== FOLDER SETUP ====
-base_folder = r"C:\Users\capta\OneDrive\Desktop\Python\temp_Data\Stock_Scraper_data"
+base_folder = r"C:\Users\capta\Dawson\Desktop\test\Stock_Scraper"
 os.makedirs(base_folder, exist_ok=True)
 
 # Auto-name files with start time
